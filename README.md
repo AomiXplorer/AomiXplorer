@@ -8,7 +8,7 @@
 
 **A girl in love with the web.** From polishing pixel-perfect UI, crafting backend logic, to keeping databases & APIs alive for everyone.
 
-![Profile views](https://komarev.com/ghpvc/?username=Rendyzzx&color=14b8a6&style=flat-square&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=AomiXplorer&color=14b8a6&style=flat-square&label=profile+views)
 
 </div>
 
@@ -54,10 +54,10 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rendyzzx&show_icons=true&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=f5f0e8&border_color=30363d" alt="Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rendyzzx&layout=compact&bg_color=0d1117&title_color=14b8a6&text_color=f5f0e8&border_color=30363d&langs_count=10" alt="Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AomiXplorer&show_icons=true&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=f5f0e8&border_color=30363d" alt="Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AomiXplorer&layout=compact&bg_color=0d1117&title_color=14b8a6&text_color=f5f0e8&border_color=30363d&langs_count=10" alt="Languages" />
 <br/>
-<img width="70%" src="https://streak-stats.demolab.com?user=Rendyzzx&background=0d1117&border=30363d&stroke=30363d&ring=14b8a6&fire=14b8a6&currStreakNum=f5f0e8&currStreakLabel=14b8a6&sideNums=f5f0e8&sideLabels=f5f0e8&dates=8b949e" alt="Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=AomiXplorer&background=0d1117&border=30363d&stroke=30363d&ring=14b8a6&fire=14b8a6&currStreakNum=f5f0e8&currStreakLabel=14b8a6&sideNums=f5f0e8&sideLabels=f5f0e8&dates=8b949e" alt="Streak" />
 
 </div>
 
@@ -66,9 +66,9 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rendyzzx/Rendyzzx/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rendyzzx/Rendyzzx/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Rendyzzx/Rendyzzx/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AomiXplorer/AomiXplorer/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AomiXplorer/AomiXplorer/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AomiXplorer/AomiXplorer/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -83,7 +83,7 @@
 
 [![Website](https://img.shields.io/badge/Website-14B8A6?style=flat-square&logo=vercel&logoColor=white)](https://cyronime.my.id)
 [![Docs](https://img.shields.io/badge/Docs-0d1117?style=flat-square&logo=readthedocs&logoColor=white)](https://cyronime.my.id/docs)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rendyzzx/rest-api)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AomiXplorer/rest-api)
 
 </div>
 
@@ -92,7 +92,7 @@
 ## 📬 Contact
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281249578370)
-[![GitHub](https://img.shields.io/badge/GitHub-Rendyzzx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rendyzzx)
+[![GitHub](https://img.shields.io/badge/GitHub-AomiXplorer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AomiXplorer)
 
 ---
 
