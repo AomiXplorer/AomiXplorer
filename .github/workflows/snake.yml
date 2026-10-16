@@ -31,4 +31,4 @@ jobs:
           cp dist/* .
           git add github-contribution-grid-snake*.svg
           git commit -m "chore: regenerate snake" || echo "no changes"
-          git push origin output
+          git push origin output --force
