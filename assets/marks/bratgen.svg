@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img">
+  <style>@media (prefers-reduced-motion: reduce) { .fx { display: none } }</style>
+  <rect width="240" height="240" rx="18" fill="#f7f1f5" stroke="#e9dfd8" stroke-width="1"/>
+  <g fill="none" stroke="#4a4348" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"><path d="M86 109 v22"/><path d="M94 99 v43"/><path d="M102 93 v54"/><path d="M110 95 v49"/><path d="M118 112 v16"/><path d="M126 98 v44"/><path d="M134 89 v62"/><path d="M142 100 v39"/><path d="M150 111 v19"/><path d="M158 93 v54"/></g>
+  <g class="fx" fill="none" stroke="#4a4348" stroke-width="3.6" stroke-linecap="round"><rect x="84" y="86" width="2.5" height="68" fill="#c9a9b6" stroke="none" opacity=".95">
+    <animate attributeName="x" values="84;156;84" dur="9s" repeatCount="indefinite"/>
+  </rect></g>
+</svg>

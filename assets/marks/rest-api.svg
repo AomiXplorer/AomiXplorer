@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img">
+  <style>@media (prefers-reduced-motion: reduce) { .fx { display: none } }</style>
+  <rect width="240" height="240" rx="18" fill="#f6f2ee" stroke="#e9dfd8" stroke-width="1"/>
+  <g fill="none" stroke="#4a4348" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M70 88 v64" stroke="#a99aa2" stroke-width="2"/>
+  <path d="M70 88 h48"/><path d="M70 120 h72"/><path d="M70 152 h34"/>
+  <circle cx="70" cy="88" r="3.5" fill="#4a4348" stroke="none"/>
+  <circle cx="70" cy="120" r="3.5" fill="#4a4348" stroke="none"/>
+  <circle cx="70" cy="152" r="3.5" fill="#4a4348" stroke="none"/>
+</g>
+  <g class="fx" fill="none" stroke="#4a4348" stroke-width="3.6" stroke-linecap="round"><circle cx="170" cy="88" r="6" fill="#4a4348" stroke="none" opacity=".25">
+    <animate attributeName="opacity" values=".2;1;.2" dur="4s" begin="0s" repeatCount="indefinite"/>
+  </circle><circle cx="170" cy="120" r="6" fill="#4a4348" stroke="none" opacity=".25">
+    <animate attributeName="opacity" values=".2;1;.2" dur="4s" begin="0.5s" repeatCount="indefinite"/>
+  </circle><circle cx="170" cy="152" r="6" fill="#4a4348" stroke="none" opacity=".25">
+    <animate attributeName="opacity" values=".2;1;.2" dur="4s" begin="1.0s" repeatCount="indefinite"/>
+  </circle></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img">
+  <style>@media (prefers-reduced-motion: reduce) { .fx { display: none } }</style>
+  <rect width="240" height="240" rx="18" fill="#f2f4f3" stroke="#e9dfd8" stroke-width="1"/>
+  <g fill="none" stroke="#4a4348" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="120" cy="120" r="42" stroke-dasharray="4 9"/>
+  <path d="M110 102 L140 120 L110 138 Z"/>
+</g>
+  <g class="fx" fill="none" stroke="#4a4348" stroke-width="3.6" stroke-linecap="round"><circle cx="120" cy="78" r="5.5" fill="#c9a9b6" stroke="none">
+    <animateMotion dur="18s" repeatCount="indefinite" path="M0 0 a 42 42 0 1 1 -0.1 0"/>
+  </circle></g>
+</svg>
