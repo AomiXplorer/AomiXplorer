@@ -11,8 +11,9 @@ Outputs (assets/):
   stack-light.svg, stack-dark.svg               -> wide card
   stack-mobile-light.svg, stack-mobile-dark.svg -> narrow card
 
-Animation is SMIL (not CSS transforms) because SMIL survives GitHub's image
-proxy and works inside <img> in every current browser. Each bar grows from
+Animation is CSS keyframes inside the SVG (no JS, no external assets); bars are
+drawn at full width and scaled from 0, so reduced-motion or a skipped animation
+still shows the final chart. Each bar grows from
 zero, staggered; text fades in behind it. Without JS, without external assets.
 """
 
@@ -85,21 +86,19 @@ def text(x, y, s, size, fill, anchor="start", weight=400, opacity=None,
     w = f' font-weight="{weight}"' if weight != 400 else ""
     sp = f' letter-spacing="{spacing}"' if spacing else ""
     op = f' opacity="{opacity}"' if opacity is not None else ""
-    anim = ""
+    cls = ""
     if fade is not None:
-        d, dur = fade
-        anim = (f'<animate attributeName="opacity" from="0" to="1" begin="{d}s" '
-                f'dur="{dur}s" fill="freeze"/>')
+        d, _dur = fade
+        cls = f' class="fade" style="animation-delay:{d:.2f}s"'
     return (f'<text x="{x:.1f}" y="{y:.1f}" font-size="{size}" fill="{fill}"{a}{w}{sp}'
-            f'{op}>{esc(s)}{anim}</text>')
+            f'{op}{cls}>{esc(s)}</text>')
 
 
 def grow(rect_open, target_w, begin, dur=0.9):
-    """rect_open = attributes without width/closing, width animates 0 -> target."""
-    return (f'{rect_open} width="0">'
-            f'<animate attributeName="width" from="0" to="{target_w:.1f}" begin="{begin}s" '
-            f'dur="{dur}s" fill="freeze" calcMode="spline" keyTimes="0;1" '
-            f'keySplines="0.25 0.8 0.35 1"/></rect>')
+    """Bar rect at full width; CSS scales it from 0 so an unsupported/blocked
+    animation still lands on the final state instead of an invisible bar."""
+    return (f'{rect_open} width="{target_w:.1f}" class="bar" '
+            f'style="animation-delay:{begin:.2f}s"/>')
 
 
 def wrap(items, maxw, size, sep="  ·  "):
@@ -254,6 +253,13 @@ def build(theme_name, kind):
            "Actions, Linux Mint, Bash, Vercel, pipx.")
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" font-family="{FONT}">
 <title>Stack</title><desc>{esc(alt)}</desc>
+<style>
+@keyframes grow{{from{{transform:scaleX(0)}}to{{transform:scaleX(1)}}}}
+@keyframes rise{{from{{opacity:0;transform:translateY(5px)}}to{{opacity:1;transform:translateY(0)}}}}
+.bar{{transform-box:fill-box;transform-origin:0 50%;animation:grow .9s cubic-bezier(.25,.8,.35,1) both}}
+.fade{{animation:rise .55s ease-out both}}
+@media (prefers-reduced-motion:reduce){{.bar,.fade{{animation:none}}}}
+</style>
 <defs>
 {grads()}
 <clipPath id="clip"><rect x="0" y="0" width="{W}" height="{H}" rx="14"/></clipPath>
