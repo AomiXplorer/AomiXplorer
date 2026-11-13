@@ -31,7 +31,7 @@ I take software apart to understand it, then rebuild it until I can explain ever
   <img src="assets/stack-light.svg" alt="Stack: TypeScript 64.7%, HTML/CSS 14.3%, JavaScript 9.4%, Kotlin 8.0%, Python 3.7% of 4 MB across 12 public repositories. Frontend: React, Next.js, Tailwind, Vite, Compose, Zustand, TanStack, Dexie. Backend: route handlers, REST, protobuf / InnerTube, WebCodecs. Environment: Git, Actions, Linux Mint, Bash, Vercel, pipx.">
 </picture>
 
-Languages are measured, not claimed: GitHub's own byte counts across my 12 public repositories. The tools line lists what I actually ship with.
+Bars are GitHub's own byte counts across my 12 public repositories, not a self-rating.
 
 ## Projects
 
