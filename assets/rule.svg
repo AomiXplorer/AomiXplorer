@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="16" viewBox="0 0 720 16" role="img" aria-label="Divider">
+  <g stroke="#ded3c9" stroke-width="1">
+    <line x1="0" y1="8" x2="332" y2="8"/>
+    <line x1="388" y1="8" x2="720" y2="8"/>
+  </g>
+  <circle cx="346" cy="8" r="2.2" fill="#e0aeb4"/>
+  <circle cx="360" cy="8" r="2.2" fill="#b5a5c8"/>
+  <circle cx="374" cy="8" r="2.2" fill="#d8c6b4"/>
+</svg>
