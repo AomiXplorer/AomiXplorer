@@ -24,13 +24,17 @@ I take software apart to understand it, then rebuild it until I can explain ever
 
 ## Stack
 
-**Languages**<br><img src="assets/icons/typescript.svg" width="19" height="19" alt="TypeScript">&nbsp;TypeScript&nbsp;&nbsp;&nbsp;<img src="assets/icons/javascript.svg" width="19" height="19" alt="JavaScript">&nbsp;JavaScript&nbsp;&nbsp;&nbsp;<img src="assets/icons/kotlin.svg" width="19" height="19" alt="Kotlin">&nbsp;Kotlin&nbsp;&nbsp;&nbsp;<img src="assets/icons/python.svg" width="19" height="19" alt="Python">&nbsp;Python&nbsp;&nbsp;&nbsp;<img src="assets/icons/html5.svg" width="19" height="19" alt="HTML/CSS">&nbsp;HTML/CSS
+**Languages**<br>
+<img src="assets/icons/typescript.svg" width="18" height="18" alt="TypeScript">&nbsp;TypeScript &nbsp;· <img src="assets/icons/javascript.svg" width="18" height="18" alt="JavaScript">&nbsp;JavaScript &nbsp;· <img src="assets/icons/kotlin.svg" width="18" height="18" alt="Kotlin">&nbsp;Kotlin &nbsp;· <img src="assets/icons/python.svg" width="18" height="18" alt="Python">&nbsp;Python &nbsp;· <img src="assets/icons/html5.svg" width="18" height="18" alt="HTML/CSS">&nbsp;HTML/CSS
 
-**Frontend**<br><img src="assets/icons/react.svg" width="19" height="19" alt="React">&nbsp;React&nbsp;&nbsp;&nbsp;<img src="assets/icons/nextdotjs.svg" width="19" height="19" alt="Next.js">&nbsp;Next.js&nbsp;&nbsp;&nbsp;<img src="assets/icons/tailwindcss.svg" width="19" height="19" alt="Tailwind">&nbsp;Tailwind&nbsp;&nbsp;&nbsp;<img src="assets/icons/vite.svg" width="19" height="19" alt="Vite">&nbsp;Vite&nbsp;&nbsp;&nbsp;<img src="assets/icons/jetpackcompose.svg" width="19" height="19" alt="Compose">&nbsp;Compose &nbsp;&nbsp;<sub>Zustand · TanStack · Dexie</sub>
+**Frontend**<br>
+<img src="assets/icons/react.svg" width="18" height="18" alt="React">&nbsp;React &nbsp;· <img src="assets/icons/nextdotjs.svg" width="18" height="18" alt="Next.js">&nbsp;Next.js &nbsp;· <img src="assets/icons/tailwindcss.svg" width="18" height="18" alt="Tailwind">&nbsp;Tailwind &nbsp;· <img src="assets/icons/vite.svg" width="18" height="18" alt="Vite">&nbsp;Vite &nbsp;· <img src="assets/icons/jetpackcompose.svg" width="18" height="18" alt="Compose">&nbsp;Compose &nbsp;· Zustand &nbsp;· TanStack &nbsp;· Dexie
 
-**Backend**<br><sub>Route handlers · REST · protobuf / InnerTube · WebCodecs</sub>
+**Backend**<br>
+Route handlers &nbsp;· REST &nbsp;· protobuf / InnerTube &nbsp;· WebCodecs
 
-**Environment**<br><img src="assets/icons/git.svg" width="19" height="19" alt="Git">&nbsp;Git&nbsp;&nbsp;&nbsp;<img src="assets/icons/githubactions.svg" width="19" height="19" alt="Actions">&nbsp;Actions&nbsp;&nbsp;&nbsp;<img src="assets/icons/linux.svg" width="19" height="19" alt="Linux Mint">&nbsp;Linux Mint&nbsp;&nbsp;&nbsp;<img src="assets/icons/gnubash.svg" width="19" height="19" alt="Bash">&nbsp;Bash&nbsp;&nbsp;&nbsp;<img src="assets/icons/vercel.svg" width="19" height="19" alt="Vercel">&nbsp;Vercel &nbsp;&nbsp;<sub>pipx</sub>
+**Environment**<br>
+<img src="assets/icons/git.svg" width="18" height="18" alt="Git">&nbsp;Git &nbsp;· <img src="assets/icons/githubactions.svg" width="18" height="18" alt="Actions">&nbsp;Actions &nbsp;· <img src="assets/icons/linux.svg" width="18" height="18" alt="Linux Mint">&nbsp;Linux Mint &nbsp;· <img src="assets/icons/gnubash.svg" width="18" height="18" alt="Bash">&nbsp;Bash &nbsp;· <img src="assets/icons/vercel.svg" width="18" height="18" alt="Vercel">&nbsp;Vercel &nbsp;· pipx
 
 ## Projects
 
