@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="16" viewBox="0 0 720 16" role="img" aria-label="Divider">
-  <g stroke="#ded3c9" stroke-width="1">
-    <line x1="0" y1="8" x2="332" y2="8"/>
-    <line x1="388" y1="8" x2="720" y2="8"/>
-  </g>
-  <circle cx="346" cy="8" r="2.2" fill="#e0aeb4"/>
-  <circle cx="360" cy="8" r="2.2" fill="#b5a5c8"/>
-  <circle cx="374" cy="8" r="2.2" fill="#d8c6b4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 12" width="860" height="12" role="presentation">
+  <rect x="0" y="5.5" width="860" height="1" fill="#ece2d9"/>
+  <rect x="0" y="4.5" width="130" height="3" rx="1.5" fill="#d9b9c4" opacity="0">
+    <animate attributeName="opacity" values="0;.5;.5;0" keyTimes="0;0.14;0.86;1" dur="13s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="-130 0;880 0" dur="13s" repeatCount="indefinite"/>
+  </rect>
 </svg>

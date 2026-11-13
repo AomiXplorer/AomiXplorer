@@ -1,34 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 380" width="880" height="380" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 176" width="880" height="176" role="img">
 <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-<rect x="16" y="16" width="272" height="150" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
-<text x="34" y="46" font-size="9.5" letter-spacing="1.5" fill="#b9788f" font-weight="600">NOV 2026</text>
-<text x="34" y="78" font-size="17" fill="#3b353a" font-weight="600">aomi 1.1.0</text>
-<text x="34" y="104" font-size="12.5" fill="#7a6f75">89 tests, installs without pip or</text>
-<text x="34" y="123" font-size="12.5" fill="#7a6f75">network</text>
-<rect x="304" y="16" width="272" height="150" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
-<text x="322" y="46" font-size="9.5" letter-spacing="1.5" fill="#b9788f" font-weight="600">NOV 2026</text>
-<text x="322" y="78" font-size="17" fill="#3b353a" font-weight="600">Freetube</text>
-<text x="322" y="104" font-size="12.5" fill="#7a6f75">installable PWA on InnerTube, no</text>
-<text x="322" y="123" font-size="12.5" fill="#7a6f75">API key</text>
-<rect x="592" y="16" width="272" height="150" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
-<text x="610" y="46" font-size="9.5" letter-spacing="1.5" fill="#b9788f" font-weight="600">OCT 2026</text>
-<text x="610" y="78" font-size="17" fill="#3b353a" font-weight="600">bratgen</text>
-<text x="610" y="104" font-size="12.5" fill="#7a6f75">local-first lyric studio, Whisper</text>
-<text x="610" y="123" font-size="12.5" fill="#7a6f75">sync, MP4</text>
-<rect x="16" y="184" width="272" height="150" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
-<text x="34" y="214" font-size="9.5" letter-spacing="1.5" fill="#b9788f" font-weight="600">OCT 2026</text>
-<text x="34" y="246" font-size="17" fill="#3b353a" font-weight="600">Cyronime API</text>
-<text x="34" y="272" font-size="12.5" fill="#7a6f75">197 documented endpoints, live</text>
-<text x="34" y="291" font-size="12.5" fill="#7a6f75">playground</text>
-<rect x="304" y="184" width="272" height="150" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
-<text x="322" y="214" font-size="9.5" letter-spacing="1.5" fill="#b9788f" font-weight="600">OCT 2026</text>
-<text x="322" y="246" font-size="17" fill="#3b353a" font-weight="600">ShinStream</text>
-<text x="322" y="272" font-size="12.5" fill="#7a6f75">Next.js 15 streaming client on the</text>
-<text x="322" y="291" font-size="12.5" fill="#7a6f75">App Router</text>
-<rect x="592" y="184" width="272" height="150" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
-<text x="610" y="214" font-size="9.5" letter-spacing="1.5" fill="#b9788f" font-weight="600">MAR 2022</text>
-<text x="610" y="246" font-size="17" fill="#3b353a" font-weight="600">the account opens</text>
-<text x="610" y="272" font-size="12.5" fill="#7a6f75">12 public repositories, same</text>
-<text x="610" y="291" font-size="12.5" fill="#7a6f75">account</text>
-<text x="16" y="364" font-size="11.5" fill="#7a6f75">GitHub's own achievement badges stay on the profile sidebar. The cards above are releases I can point at.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.00s" fill="freeze"/>
+<rect x="0" y="0" width="208" height="132" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
+<text x="16" y="28" font-size="9" letter-spacing="1.4" fill="#b9788f" font-weight="600">NOV 2026</text>
+<text x="16" y="58" font-size="16" fill="#3b353a" font-weight="600">aomi 1.1.0</text>
+<text x="16" y="82" font-size="12" fill="#7a6f75">89 tests, no dependencies</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.08s" fill="freeze"/>
+<rect x="224" y="0" width="208" height="132" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
+<text x="240" y="28" font-size="9" letter-spacing="1.4" fill="#b9788f" font-weight="600">NOV 2026</text>
+<text x="240" y="58" font-size="16" fill="#3b353a" font-weight="600">Freetube</text>
+<text x="240" y="82" font-size="12" fill="#7a6f75">installable PWA, no API key</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.16s" fill="freeze"/>
+<rect x="448" y="0" width="208" height="132" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
+<text x="464" y="28" font-size="9" letter-spacing="1.4" fill="#b9788f" font-weight="600">OCT 2026</text>
+<text x="464" y="58" font-size="16" fill="#3b353a" font-weight="600">Cyronime API</text>
+<text x="464" y="82" font-size="12" fill="#7a6f75">197 documented endpoints</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.55s" begin="0.24s" fill="freeze"/>
+<rect x="672" y="0" width="208" height="132" rx="12" fill="#faf6f1" stroke="#e6dbd2"/>
+<text x="688" y="28" font-size="9" letter-spacing="1.4" fill="#b9788f" font-weight="600">MAR 2022</text>
+<text x="688" y="58" font-size="16" fill="#3b353a" font-weight="600">since the start</text>
+<text x="688" y="82" font-size="12" fill="#7a6f75">12 public repositories</text>
+</g>
+<text x="0" y="164" font-size="11.5" fill="#7a6f75">GitHub's own achievement badges live on the sidebar. These are releases I can point at in the code.</text>
 </g></svg>
