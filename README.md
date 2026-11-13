@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
+    <source media="(max-width: 600px)" srcset="assets/hero-mobile.jpg">
     <source media="(min-width: 601px)" srcset="assets/hero-wide.svg">
     <img src="assets/hero-wide.svg" width="100%" alt="Illustration: a young programmer at a minimal desk, lit by soft lavender and dusty pink light">
   </picture>
